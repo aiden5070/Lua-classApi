@@ -3,7 +3,7 @@
 ## Usage
 #### Using this is as simple as making a class, and including it in a different .lua file
 #### Here is a good example
-## Script 1 (Creating the class)
+### Script 1 (Creating the class)
 ```lua
 local cApi = require("Class")
 cApi.class "MyClass" {
@@ -12,7 +12,7 @@ cApi.class "MyClass" {
   end
 }
 ```
-## Script 2 (Including the file)
+### Script 2 (Including the file)
 #### Before we move on to this, we should know some basic knowledge of cApi's include functions
 #### There are 2 types of "includes"
 #### The first type is the normal "include"

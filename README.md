@@ -34,4 +34,6 @@ foo("Hello world")
 
 #### I hope this simplifies most of cApi.
 # Why should I use it?
-#### Because you **should**
+#### Using this is extremely useful. You will only need ONE require and including classes is extremely easy.
+##### (You can even include from other files!)
+#### Including from different files is actually recommended, making classes in the same file and including it in the same file makes it extremely messy and utterly ugly.

@@ -1,4 +1,5 @@
-# Lua-classApi
+# Lua Class Api
+## A quick and easy solution for always using require modules.
 #### This is used to make some simple or even advanced classes.
 ## Usage
 #### Using this is as simple as making a class, and including it in a different .lua file
